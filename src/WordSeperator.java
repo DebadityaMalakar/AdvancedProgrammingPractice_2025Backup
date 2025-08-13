@@ -15,4 +15,4 @@ public class WordSeperator {
 
         scanner.close();
     }
-} 
+}
